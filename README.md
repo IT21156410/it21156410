@@ -35,7 +35,6 @@
       </a>
     </p>
 </p>
-<br>
 <p align="center"> 
     <a href="https://github.com/hansajith18/" target="blank">
       <img align="center" src="https://img.icons8.com/nolan/344/github.png" height="40" width="40" alt="hansajith18"/>
@@ -58,7 +57,6 @@
     <a href="https://instagram.com/hansajith18" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansajith18" height="30" width="30" />
     </a>
-    <br>
     <br>
     📫 How to reach me <a href="mailto:it21156410@my.sliit.lk"> it21156410@my.sliit.lk</a><br>
     👉 My Personal <a href="https://github.com/hansajith18" target="_blank"> GitHub Account</a>
