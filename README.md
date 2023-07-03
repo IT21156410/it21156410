@@ -71,7 +71,7 @@
   <table style="width:90%;border: 0 none;margin: 0 auto">
     <tr>
       <td colspan="2">
-        <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=it21156410&theme=react-dark" alt="activity-graph">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=it21156410&theme=react-dark" alt="activity-graph">
       </td>
     </tr>
     <tr>
